@@ -1,4 +1,4 @@
-#  Iris Dataset Classification using Decision Tree Classifier 
+#  Prediction using Decision Tree Classifier 
 ## 📚 Project Overview
 This project demonstrates how to build a Decision Tree Classifier using the famous Iris dataset. The Iris dataset contains 150 samples of iris flowers, with 4 features for each flower (sepal length, sepal width, petal length, petal width) and a corresponding class label representing the species of the flower (Setosa, Versicolor, Virginica). The goal is to predict the species of the flower based on these features.
 ## 📊 Dataset
